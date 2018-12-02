@@ -1,7 +1,7 @@
 # MSBD5001_Individual_Project
 Individual Project of MSBD5001
 ---
-- Programming Languages: python
+- Programming Languages: `python`
 
 - Required packages:
 
@@ -9,7 +9,6 @@ Individual Project of MSBD5001
         numpy
         py-xgboost
         scikit-learn
-        matplotlib
 
 - How to run it:
 

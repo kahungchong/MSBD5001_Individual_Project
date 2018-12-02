@@ -6,7 +6,6 @@ from sklearn import metrics
 from sklearn.model_selection import cross_validate,GridSearchCV,train_test_split  
 from sklearn.feature_selection import SelectKBest,VarianceThreshold,f_regression
 from sklearn.preprocessing import PolynomialFeatures,MinMaxScaler,LabelEncoder
-import matplotlib.pylab as plt
 from sklearn.metrics import mean_absolute_error
 from sklearn.metrics import fbeta_score, make_scorer
 from sklearn.metrics import mean_squared_error
